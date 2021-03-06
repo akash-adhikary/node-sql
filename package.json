@@ -1,0 +1,27 @@
+{
+  "name": "node-sql",
+  "version": "1.0.0",
+  "description": "node and sql connection ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash-adhikary/node-sql.git"
+  },
+  "keywords": [
+    "mysql",
+    "node",
+    "connection"
+  ],
+  "author": "Akash Adhikary",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/akash-adhikary/node-sql/issues"
+  },
+  "homepage": "https://github.com/akash-adhikary/node-sql#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
