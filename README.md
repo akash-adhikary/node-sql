@@ -41,3 +41,10 @@ step 6: write the following code :-
             if (err) throw err;
             console.log("Connected!");
             });
+
+# End of Lesson 2
+
+# Lesson 3
+
+step 7: 
+
