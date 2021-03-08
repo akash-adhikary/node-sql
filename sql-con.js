@@ -1,10 +1,11 @@
 var mysql = require('mysql'); // import the mysql package
 class sqlcon {
 
-    constructor(host, user, password) {
-        this.host = host;
-        this.user = user;
-        this.password = password;
+    constructor(cred) {
+
+        this.host = cred['host'];
+        this.user = cred['user'];
+        this.password = cred['password'];
       }
   
       getConCred() {
